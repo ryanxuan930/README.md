@@ -7,8 +7,7 @@
 附中田徑三代競賽管理系統\
 RIKUJO Competition Management System\
 RIKUJO Timing System\
-AI號碼布辨識計時系統\
-
+AI號碼布辨識計時系統
 ---
 ![ryanxuan930's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanxuan930&show_icons=true&count_private=true&cache_seconds=1800)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanxuan930&layout=compact&cache_seconds=1800)
