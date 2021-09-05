@@ -4,10 +4,9 @@
 起初只是想幫母校師大附中寫一套體育競賽管理系統，結果不小心就掉進程式的坑了 \
 現在以開發網頁系統為主，也有摸一點硬體就是 \
 目前正在爆肝的有： 
-+ 附中田徑三代競賽管理系統(HSNUA 3.0)
-+ RIKUJO Competition Management System
-+ Network-based Timing System, NETS
-+ 中山大學校園公車資訊系統(Redesign)
++ 附中田徑三代競賽管理系統(HSNUA 3.5)
++ SportEvent Pro 3 Competition Management System
++ 中山大學二代校務研究系統資訊平台
 ---
 ![ryanxuan930's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanxuan930&show_icons=true&count_private=true&cache_seconds=1800) \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanxuan930&layout=compact&cache_seconds=1800)
