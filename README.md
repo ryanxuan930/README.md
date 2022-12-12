@@ -1,8 +1,8 @@
 # Hi, I'm Ryan Po-Hsuan Chang
 
-I am a undergraduate student at National Sun Yat-sen University in Taiwan, majoring in Program in Interdisciplinary Studies.\ 
-
-===Skills===\
+I am a undergraduate student at National Sun Yat-sen University in Taiwan, majoring in Program in Interdisciplinary Studies.
+\
+## Skills
 [Frontend]\
 • Vue 3\
 • Vuex\
@@ -21,7 +21,7 @@ I am a undergraduate student at National Sun Yat-sen University in Taiwan, major
 • Selenium\
 • Arduino\
 \
-===Projects===\
+## Projects
 [SportEvent Pro]\
 A solution for managing a large scale sport event.\
 Current branches:\
