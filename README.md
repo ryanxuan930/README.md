@@ -20,15 +20,17 @@ I am a undergraduate student at National Sun Yat-sen University in Taiwan, major
 • Python\
 • Selenium\
 • Arduino\
-\
+
 ## Projects
-[SportEvent Pro]\
+[SportEvent Pro]
+\
 A solution for managing a large scale sport event.\
 Current branches:\
 • SportEvent Pro 5 for NSYSU\
-• SportEvent Pro 5 for HSNU (formerly known as HSNUA CMS)\
+• SportEvent Pro 5 for HSNU (formerly known as HSNUA CMS)
 \
-[NSYSU International Affairs Management System]\
+[NSYSU International Affairs Management System]
+\
 An internal system for Office of International Affairs, NSYSU.
 ---
 ![ryanxuan930's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanxuan930&show_icons=true&count_private=true&cache_seconds=1800) \
