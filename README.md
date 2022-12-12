@@ -19,7 +19,7 @@ I am a undergraduate student at National Sun Yat-sen University in Taiwan, major
 [Others]\
 • Python\
 • Selenium\
-• Arduino\
+• Arduino
 
 ## Projects
 
